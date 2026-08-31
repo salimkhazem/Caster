@@ -1,6 +1,6 @@
 # CASTER
 
-Implementation of CASTER **Certified Affine Shift Transport for Reliable Test-Time Adaptation** submitted to WACV 2027.
+Implementation of Caster **Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You** submitted to WACV 2027.
 
 ## Setup
 
